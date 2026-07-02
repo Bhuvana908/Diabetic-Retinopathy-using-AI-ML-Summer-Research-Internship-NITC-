@@ -77,7 +77,7 @@ it needs.
 
 ## 4. Datasets Used
 
-- **[APTOS 2019 Blindness Detection](https://www.kaggle.com/datasets/mariaherrerot/aptos2019)** (Kaggle) — retinal images labeled 0–4 for DR severity. Used from `DR1` onward.
+- **[APTOS 2019 dataset](https://www.kaggle.com/datasets/mariaherrerot/aptos2019)** (Kaggle) — retinal images labeled 0–4 for DR severity. Used from `DR1` onward.
 - **IDRiD Segmentation Dataset** — added from `DR9` onward for lesion-level
   segmentation masks and cross-dataset validation. Uploaded to Google Drive:
   **[IDRiD Segmentation](https://drive.google.com/file/d/1eXhbsN2jC7g7ueBbnB8-VoQUSVFX1Kpz/view?usp=sharing)**
