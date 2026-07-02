@@ -80,7 +80,7 @@ it needs.
 - **[APTOS 2019 Blindness Detection](https://www.kaggle.com/c/aptos2019-blindness-detection)** (Kaggle) — retinal images labeled 0–4 for DR severity. Used from `DR1` onward.
 - **IDRiD Segmentation Dataset** — added from `DR9` onward for lesion-level
   segmentation masks and cross-dataset validation. Uploaded to Google Drive:
-  **[link](https://drive.google.com/file/d/1eXhbsN2jC7g7ueBbnB8-VoQUSVFX1Kpz/view?usp=sharing)**
+  **[IDRiD Segmentation](https://drive.google.com/file/d/1eXhbsN2jC7g7ueBbnB8-VoQUSVFX1Kpz/view?usp=sharing)**
 
 Datasets are **not included** in this repository (they are large and
 license-restricted). Each notebook downloads them at runtime via:
